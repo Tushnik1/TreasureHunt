@@ -13,3 +13,14 @@ Hope you enjoy exploring this project.
 Update;
 Since, 11/12/2024.
 All the previous files of PHP are replaced by the newly created React Stack.
+
+#
+### To run it locally
+1. Download the directory
+2. Open the terminal.
+```javascript
+cd client
+npm install
+npm run dev
+```
+*** Make Sure that the config.js file contains the desired links and path those were kept blank intentionally.
