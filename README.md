@@ -8,3 +8,8 @@ Then use this link to start the hunt: http://enginerds2k23treasurehunt.000.pe/Lo
 The resources or languages used are HTML, CSS for frontend and PHP is used in backend programming.The database used here is MySQL.
 
 Hope you enjoy exploring this project.
+
+
+Update;
+Since, 11/12/2024.
+All the previous files of PHP are replaced by the newly created React Stack.
